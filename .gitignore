@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C/C++ object files and libraries
+*.elc
+*.pyc
+
+# Local/testing data
+output/
+logs/
+*.xlsx
+*.xls
+*.pdf
+*.csv
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
